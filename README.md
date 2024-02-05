@@ -1,24 +1,36 @@
-# Exercícios Resolvidos pelo Squad Bertha Lutz
+# Exercícios Resolvidos pelo Squad Bertha Lutz :)
 
-Este repositório contém todos os exercícios de python da semana 4 resolvidos pelo squad Bertha Lutz, composto por: 
+Este repositório contém todos os exercícios de python da semana 3 resolvidos pelo squad Bertha Lutz, composto por: 
 
-* Laura Perroni Quadros da Silva 
-* Adriana Cristina Ferraresi
+
+|Laura Perroni| Adriana Cristina | Mariana Choratto| Erika Alves | Raissa Carneiro | Claudia Azambuja |
+|---|---|---|---|---|---|
+|<img src="img/laura.jpg" height="100" width="100">|<img src="img/adriana.jpg" height="100" width="100">|<img src="img/mariana.jpg" height="100" width="100">|<img src="img/erika.jpg" height="100" width="100">|<img src="img/raissa.jpeg" height="100" width="100">| <img src="img/claudia.jpg" height="100" width="100">|
+
+|Vivian Rosana| Leidejane da Silva |  Gabriela Sampaio | Elizabeth Pereira | Carme Fernandes |
+|---|---|---|---|---|
+|<img src="img/vivian.jpeg" height="100" width="100">|<img src="img/leidejane.png" height="100" width="100">|<img src="img/gabriela.jpg" height="100" width="100">|<img src="img/elizabeth.jpg" height="100" width="100">|<img src="img/carme.PNG" height="100" width="100">|
+
+#### Nomes completos:
+* Laura Perroni Quadros da Silva ok
+* Adriana Cristina Ferraresi ok
 * Carme Fernandes 
-* Elizabeth Pereira
-* Claudia Azambuja
-* Mariana Choratto
-* Vivian Rosana Carrillo Cuentas
-* Erika Alves Malaquias 
-* Raissa Carneiro Castro
-* Leidejane Da Silva Nascimento Da Rosa
-* Gabriela Sampaio Da Silva
+* Elizabeth Pereira 
+* Claudia Azambuja ok
+* Mariana Choratto ok
+* Vivian Rosana Carrillo Cuentas ok
+* Erika Alves Malaquias  ok
+* Raissa Carneiro Castro ok
+* Leidejane Da Silva Nascimento Da Rosa ok
+* Gabriela Sampaio Da Silva ok
+
 
 ## Método de trabalho
 
-**17/01/24**
- 
-* Utilizamos o nosso canal de texto no Discord para iniciarmos a conversa sobre este repositório.
+* Fizemos reuniões de revisão das atividades de vez em quando, e nos ajudamos em exercícios específicos
+* Utilizamos o nosso canal de texto no Discord para iniciarmos a conversa sobre este repositório, e toda a comunicação foi feita lá.
+*  Decidimos nos ajudar como equipe e cobrir para nossas colegas que não conseguirem fazer tudo que lhes foi delegado mas que comunicaram-se conosco e tentaram fazer sua parte, pois somos um time e devemos nos ajudar sempre :)
+* Cada arquivo .py contém a proposta da atividade e a aluna responsável pela resolução, organizamos por semana e módulo
 * Decidimos que cada uma escolheria um exercício para fazer e fizemos um tutorial para nos ajudar a melhor trabalhar: 
     
     Passo-a-passo:
@@ -28,11 +40,11 @@ Este repositório contém todos os exercícios de python da semana 4 resolvidos 
     * Fazer as atividades combinadas entre nós em seu computador;
     * Cuidado! Antes de fazer git add, commit e push verifique se você está na branch ExerciciosPython_SquadBerthaLutz !!! se não, use: (git checkout ExerciciosPython_SquadBerthaLutz);
     * Após fazer git push pro seu fork, crie uma pull request para o repositório que a Laura criou e a mesma irá fazer o merge para ele com as alterações. 🙂
-* Cada arquivo .py contém a proposta da atividade e a aluna responsável pela resolução.
 
-### Divisão de tarefas:
 
-#### Divisão de atividades**
+### Divisão de tarefas entre a Squad =================================================================
+
+#### Divisão de atividades da Semana 3**
 
 **Exercicios do modulo 1- conceitos basicos:**
 * Exercicio 1 - Carme
@@ -74,5 +86,16 @@ Este repositório contém todos os exercícios de python da semana 4 resolvidos 
 * Exercicio 5 - Adriana
 * Exercicio 6- Laura
 
+#### Divisão de atividades da Semana 4**
 
-OBS: quando forem escolher os exercícios de vocês copiem essa lista e adicionem o nome aí essa lista estará sempre atualizada
+# Exercícios da semana 4
+
+## OOP
+ (Utilizar a branch: ExerciciosPOO_SquadBerthaLutz)
+### Exercício Classes e Objetos 
+* Exercício Mercado = Elizabeth Pereira, Laura Perroni, 
+
+
+## Banco de Dados
+### (Utilizar a branch: ExerciciosBancoDeDados_SquadBerthaLutz)
+* Exercício Mercado = Elizabeth Pereira, Laura PerroniLeidejane da Rosa, 
